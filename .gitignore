@@ -1,2 +1,10 @@
-# Project exclude paths
-/out/
+/shelf/
+../out
+misc.xml
+modules.xml
+vcs.xml
+uiDesigner.xml
+workspace.xml
+artifacts
+libraries
+.idea
